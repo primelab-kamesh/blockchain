@@ -15,7 +15,7 @@
 
 ### Clone the repository
 ```bash
-$ git clone https://github.com/NearPrime/blockchain.git
+$ git clone https://github.com/primelab-kamesh/blockchain.git
 ```
 ### Open the project directory
 ```bash
