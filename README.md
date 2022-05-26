@@ -83,7 +83,7 @@ $ go build
 
 
 ## Useful tips
-* I've followed the below tutorial and the Blockchain Implementation is done as described in the following articles, It's good to follow if you want to get a good understanding of Code Base:*
+* I've followed the below tutorial and the Blockchain Implementation is done as described in the following articles, It's good to follow if you want to get a good understanding of Code Base:
 
 1. [Basic Prototype](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
 2. [Proof-of-Work](https://jeiwan.net/posts/building-blockchain-in-go-part-2/)
